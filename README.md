@@ -8,7 +8,8 @@ phases:
       - echo Entered the install phase........
 	  cccccc
 	  ccccccccc
-	  ccccccc
+	  cccccccddddddddddddddddddd
+	  gggggggggggggggggggggg
 
 
 
