@@ -6,16 +6,7 @@ phases:
       - pip install awscli --upgrade --user
       - echo `aws --version`
       - echo Entered the install phase........
-	  cccccc
-	  ccccccccc
-	  cccccccddddddddddddddddddd
-	  gggggggggggggggggggggg
-	  nnnnnnnnnnnnnnnnnnnnn
-	  bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-
-dddddddddddddddddddddddddddddd
-zzzzzzzzzzzzzzz
-
+	aaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 
 
