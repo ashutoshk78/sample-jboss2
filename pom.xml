@@ -21,6 +21,8 @@
     <artifactId>helloworld</artifactId>
     <packaging>war</packaging>
     <name>Quickstart: helloworld</name>
+    <groupId>com.ibm.testapp</groupId>
+    <version>0.0.1/version>
     <description>Helloworld</description>
 
     <licenses>
